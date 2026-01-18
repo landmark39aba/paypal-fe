@@ -1,0 +1,6 @@
+
+SDLC
+Linux
+EC2
+Terminal
+bolide
